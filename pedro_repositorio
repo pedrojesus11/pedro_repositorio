@@ -1,7 +1,0 @@
-echo "# pedro_repositorio" > > README.md
-git init
-git add README.md
-git commit -m "primer commit"
-git branch -M main
-git control remoto agregar origen https://github.com/pedrojesus11/pedro_repositorio.git
-git push -u origen principal
